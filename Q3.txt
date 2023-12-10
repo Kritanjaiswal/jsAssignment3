@@ -1,0 +1,3 @@
+Q3. What are loops, and what do we need them? Explain different types of loops with their syntax and examples.
+Answer:
+An Introduction to For, While and Do While Loops in Programming. In computer Programming, a Loop is used to execute a group of instructions or a block of code multiple times, without writing it repeatedly. The block of code is executed based on a certain condition. Loops are the control structures of a program.
